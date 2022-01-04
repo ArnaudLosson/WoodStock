@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/WoodStock/static/css/main.f2a9cfae.css",
+    "main.js": "/WoodStock/static/js/main.0f99c369.js",
+    "static/media/woodLeft.png": "/WoodStock/static/media/woodLeft.e86f529cf03c7f9b25c1.png",
+    "static/media/woodRight.png": "/WoodStock/static/media/woodRight.40cd6bd131045199c8e3.png",
+    "static/media/team.png": "/WoodStock/static/media/team.4fbc342b679767c6b854.png",
+    "static/media/woodRestaurant.png": "/WoodStock/static/media/woodRestaurant.b688ee9e5411cd7ca4d3.png",
+    "static/media/chair.png": "/WoodStock/static/media/chair.77974fea5f0af298e498.png",
+    "index.html": "/WoodStock/index.html",
+    "main.f2a9cfae.css.map": "/WoodStock/static/css/main.f2a9cfae.css.map",
+    "main.0f99c369.js.map": "/WoodStock/static/js/main.0f99c369.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2a9cfae.css",
+    "static/js/main.0f99c369.js"
+  ]
+}
